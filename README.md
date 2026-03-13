@@ -22,7 +22,8 @@
 - 🤝 Open to: Full-Stack Developer roles & impactful collaborations
 - 💬 Ask me about: React, Node.js, APIs, authentication & performance optimization
 - 📫 Reach me at: **faujdardevansh@gmail.com**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1yjxPuX6Pqwcfp5YwWNn2YvX3RdIX8l9O/view?usp=drive_link)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1IqgMJ-rR7Na2nKd47oD9RlOO8CsjmOHo/view?usp=drive_link)
+- 🎒 Portfolio:  [View Here](https://devanshportfolio-roan.vercel.app/)
 - ⚡ Fun fact: I treat bugs like puzzles , I don’t stop until I solve them.
 
 ---
