@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">Full-Stack Developer | React • TypeScript • Node.js • MongoDB</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2003devansh&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2003devansh&layout=compact" height="160"/>
-</p>
 
 <p align="center">
   Building practical, scalable web applications with clean architecture and real-world impact.
